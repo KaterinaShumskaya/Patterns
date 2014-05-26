@@ -1,0 +1,9 @@
+D:\EPAM\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe.config
+D:\EPAM\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+D:\EPAM\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+D:\EPAM\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csprojResolveAssemblyReference.cache
+D:\EPAM\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.exe
+D:\EPAM\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.pdb
+D:\EPAM\Паттерны\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe.config
+D:\EPAM\Паттерны\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.exe
+D:\EPAM\Паттерны\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.pdb
